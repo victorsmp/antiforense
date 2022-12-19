@@ -10,7 +10,7 @@ El **HiderBuddy** lo hicimos y compilamos en clase.
 
 El **Encryptor** también, este se apoya en *Crypt.exe* para la encriptación, es símplemente un *wrapper* para este.
 
-
+## Anexo:
 Estos programas a comparación con algunas soluciones comerciales, al ser *open source*, se pueden parametrizar y programar para su ejecución en bloque.
 
 De hecho el **Encryptor** fácilmente se podría utilizar para crear un *Ransomware*, el **Steganograpizer** para deployear *Malware*...
